@@ -1,82 +1,27 @@
 [
     {
-        "type": "VERKOOP",
-        "prijs": 11.56,
-        "hoeveelheid": 2674.24
-    },
-    {
-        "type": "VERKOOP",
-        "prijs": 11.87,
-        "hoeveelheid": 1581.41
+        "type": "KOOP",
+        "prijs": 11.57,
+        "hoeveelheid": 1625.74
     },
     {
         "type": "KOOP",
-        "prijs": 11.07,
-        "hoeveelheid": 7861.36
+        "prijs": 13.97,
+        "hoeveelheid": 9878.0
     },
     {
         "type": "VERKOOP",
-        "prijs": 12.8,
-        "hoeveelheid": 1171.73
+        "prijs": 10.22,
+        "hoeveelheid": 1636.15
     },
     {
         "type": "VERKOOP",
-        "prijs": 10.98,
-        "hoeveelheid": 7401.75
-    },
-    {
-        "type": "VERKOOP",
-        "prijs": 10.51,
-        "hoeveelheid": 8372.37
-    },
-    {
-        "type": "VERKOOP",
-        "prijs": 13.89,
-        "hoeveelheid": 430.8
+        "prijs": 11.05,
+        "hoeveelheid": 9680.19
     },
     {
         "type": "KOOP",
-        "prijs": 13.14,
-        "hoeveelheid": 740.25
-    },
-    {
-        "type": "VERKOOP",
-        "prijs": 13.21,
-        "hoeveelheid": 1287.96
-    },
-    {
-        "type": "VERKOOP",
-        "prijs": 11.3,
-        "hoeveelheid": 4239.04
-    },
-    {
-        "type": "KOOP",
-        "prijs": 13.34,
-        "hoeveelheid": 5694.67
-    },
-    {
-        "type": "VERKOOP",
-        "prijs": 10.97,
-        "hoeveelheid": 275.43
-    },
-    {
-        "type": "VERKOOP",
-        "prijs": 13.92,
-        "hoeveelheid": 3013.05
-    },
-    {
-        "type": "VERKOOP",
-        "prijs": 11.95,
-        "hoeveelheid": 8041.11
-    },
-    {
-        "type": "VERKOOP",
-        "prijs": 13.05,
-        "hoeveelheid": 7804.96
-    },
-    {
-        "type": "KOOP",
-        "prijs": 10.62,
-        "hoeveelheid": 161.47
+        "prijs": 11.49,
+        "hoeveelheid": 5181.14
     }
 ]
