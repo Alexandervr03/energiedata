@@ -1,0 +1,7 @@
+{
+  "orders": [
+    {"type": "KOOP", "prijs": 12.37, "hoeveelheid": 2500},
+    {"type": "VERKOOP", "prijs": 10.89, "hoeveelheid": 2125.5},
+    {"type": "KOOP", "prijs": 14.23, "hoeveelheid": 1546}
+  ]
+}
