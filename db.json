@@ -1,4 +1,4 @@
-[
+{"orders": [
     {
         "type": "KOOP",
         "prijs": 11.57,
@@ -25,3 +25,4 @@
         "hoeveelheid": 5181.14
     }
 ]
+}
