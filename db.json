@@ -18,11 +18,6 @@
         "type": "VERKOOP",
         "prijs": 11.05,
         "hoeveelheid": 9680.19
-    },
-    {
-        "type": "KOOP",
-        "prijs": 11.49,
-        "hoeveelheid": 5181.14
     }
 ]
 }
